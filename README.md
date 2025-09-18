@@ -1,3 +1,9 @@
+## Finish proof:
+
+<img width="931" height="498" alt="image" src="https://github.com/user-attachments/assets/70b9fa68-2aa9-4db0-85c6-e90b82f01a16" />
+
+
+
 <header>
 
 <!--
