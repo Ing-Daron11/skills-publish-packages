@@ -1,6 +1,6 @@
 ## Finish proof:
 
-<img width="931" height="498" alt="image" src="https://github.com/user-attachments/assets/70b9fa68-2aa9-4db0-85c6-e90b82f01a16" />
+<img width="956" height="549" alt="image" src="https://github.com/user-attachments/assets/c7a2f811-81b3-4bd9-8e37-e52573759796" />
 
 
 
